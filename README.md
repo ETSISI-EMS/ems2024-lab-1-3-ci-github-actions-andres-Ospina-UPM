@@ -1,3 +1,5 @@
+[![Buils and test of Java Project](https://github.com/ETSISI-EMS/ems2024-lab-1-3-ci-github-actions-andres-Ospina-UPM/actions/workflows/main.yml/badge.svg)](https://github.com/ETSISI-EMS/ems2024-lab-1-3-ci-github-actions-andres-Ospina-UPM/actions/workflows/main.yml)
+
 # Pipeline de Integración Continua con GitHub Actions
 
 Repositorio para el laboratorio de CI con GitHub Actions
